@@ -31,4 +31,4 @@ I'm a full stack developer, and i like to create software that solve real world 
 - Seo fundamentals <img width="15rem" src="https://www.freeiconspng.com/uploads/search-engine-optimization-icon-7.png" alt="flutter"/>
 <hr/>
 
-Feel free to reach out to me on my email:muhammadanas4824@gmail.com. I'm open to freelance/part-time work where i can contribute, learn and grow. If you've a good opportunity for me, feel free to reach out.
+Feel free to reach out to me on my email: muhammadanas4824@gmail.com. I'm open to freelance/part-time work where i can contribute, learn and grow. If you've a good opportunity for me, feel free to reach out.
