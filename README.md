@@ -23,6 +23,7 @@ I'm a full stack developer, and i like to create software that solve real world 
 - Portfolio Revamping
 - Open source portfolio template 
 - Personal blog 
+- Leveling up my github stats 
 <hr/>
 
 ### Currently Learning:
