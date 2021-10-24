@@ -1,4 +1,4 @@
-![luffy saying hi](https://c.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif)
+![luffy saying hi](https://thumbs.gfycat.com/CourteousScratchyAsiaticwildass.webp)
 
 ### Hey there, I'm Anas 👋
 
