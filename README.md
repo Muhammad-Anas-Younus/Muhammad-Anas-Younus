@@ -16,7 +16,7 @@ I'm a full stack developer, and i like to create software that solve real world 
 <img width="50rem" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" alt="html"/>
 <img width="50rem" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="html"/>
 <img width="50rem" src="https://www.pngall.com/wp-content/uploads/2016/05/WordPress-Logo-Free-Download-PNG.png" alt="html"/>
-<img width="50rem" src="http://assets.stickpng.com/images/5847fb26cef1014c0b5e48d4.png" alt="html"/>
+<img width="50rem" src="https://i.pinimg.com/originals/66/ec/d4/66ecd45c7b6a7a76cd3c2c1e16b14ea0.png" alt="html"/>
 </div>
 <hr/>
 
