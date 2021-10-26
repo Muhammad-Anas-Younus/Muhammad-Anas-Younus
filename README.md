@@ -11,7 +11,7 @@ I'm a full stack developer, and i like to create software that solve real world 
 <div style={{display: flex}}>
 <img width="50rem" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="html"/>
 <img width="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html"/>
-<img width="50rem" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" alt="html"/>
+<img width="50rem" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="html"/>
 <img width="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="html"/>
 <img width="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="html"/>
 <img width="50rem" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" alt="html"/>
