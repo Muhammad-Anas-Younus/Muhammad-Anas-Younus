@@ -21,17 +21,5 @@ I'm a full stack developer, and i like to create software that solve real world 
 </div>
 <hr/>
 
-### Currently Working On (coming soon):
-- Portfolio Revamping
-- Open source portfolio template 
-- Personal blog 
-- Leveling up my github stats 
-<hr/>
-
-### Currently Learning:
-
-- Dart & flutter <img width="15rem" src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" alt="flutter"/>
-- Seo fundamentals <img width="15rem" src="https://www.freeiconspng.com/uploads/search-engine-optimization-icon-7.png" alt="flutter"/>
-<hr/>
 
 Feel free to reach out to me on my email: muhammadanas4824@gmail.com. I'm open to freelance/part-time work where i can contribute, learn and grow. If you've a good opportunity for me, feel free to reach out.
