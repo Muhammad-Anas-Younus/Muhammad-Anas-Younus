@@ -1,25 +1,16 @@
-![luffy saying hi](https://thumbs.gfycat.com/CourteousScratchyAsiaticwildass.webp)
+<h1 align="center">Hi 👋, I'm Anas</h1>
+<h3 align="center">I'm a tech enthusiast, A full stack developer with an entrepreneurial mindset and a can do attitude.</h3>
 
-### Hey there, I'm Anas 👋
+- 👨‍💻 All of my projects are available at [https://muhammad-anas.netlify.app/](https://muhammad-anas.netlify.app/)
 
-I'm a full stack developer, and i like to create software that solve real world problems and/or add value to peoples lives. I've some experience as a freelance web developer, mostly making frontend for startups or helping them debug their site. I'm entrepreneurial, and someday i'm going to launch my own tech startup.
+- 📫 How to reach me **muhammadanas4824@gmail.com**
 
-<hr/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-anas-a3b17719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-anas-a3b17719a/" height="30" width="40" /></a>
+</p>
 
-### Languages & frameworks i know:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div style={{display: flex}}>
-<img width="50rem" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" alt="html"/>
-<img width="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html"/>
-<img width="50rem" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="html"/>
-<img width="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="html"/>
-<img width="50rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="html"/>
-<img width="50rem" src="https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25" alt="html"/>
-<img width="50rem" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="html"/>
-<img width="50rem" src="https://www.pngall.com/wp-content/uploads/2016/05/WordPress-Logo-Free-Download-PNG.png" alt="html"/>
-<img width="50rem" src="https://i.pinimg.com/originals/66/ec/d4/66ecd45c7b6a7a76cd3c2c1e16b14ea0.png" alt="html"/>
-</div>
-<hr/>
-
-
-Feel free to reach out to me on my email: muhammadanas4824@gmail.com. I'm open to freelance/part-time work where i can contribute, learn and grow. If you've a good opportunity for me, feel free to reach out.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-anas-younus&show_icons=true&locale=en" alt="muhammad-anas-younus" /></p>
